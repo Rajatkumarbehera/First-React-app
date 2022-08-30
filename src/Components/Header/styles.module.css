@@ -1,0 +1,40 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.left {
+    margin-left: 120px;
+    padding: 5px 15px;
+}
+
+.logo {
+    font-size: 15px;
+    color: blueviolet;
+    font-weight: 500;
+}
+
+.bag {
+    width: 30px;
+    color: dodgerblue;
+    margin: 0 20px;
+}
+
+.right {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 120px;
+}
+
+.favButton {
+    width: 30px;
+    margin-right: 20px;
+    color: blue;
+}
+
+.shoppingCartIcon {
+    width: 30px;
+    color: blue;
+}
